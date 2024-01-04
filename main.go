@@ -1,4 +1,4 @@
-package main
+package typed_goroutine
 
 import (
 	"context"
